@@ -1,7 +1,7 @@
-##datastax-cassandra-docker
+##datastax-opscenter-docker
 Community Datastax cassandra with datastax agent.
 ######Pull from Docker Hub
-    docker pull allen13/datastax-cassandra
+    docker pull allen13/datastax-opscenter
 ######Build Image
     make
 ######Destroy Deployed Image
