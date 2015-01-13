@@ -1,5 +1,5 @@
 ##datastax-opscenter-docker
-Community Datastax cassandra with datastax agent.
+Community Datastax opscenter with datastax agent.
 ######Pull from Docker Hub
     docker pull allen13/datastax-opscenter
 ######Build Image
